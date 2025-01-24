@@ -22,3 +22,19 @@ Elegant UI/UX: Minimalistic and appealing design to enhance user experience.
 Booking Form: A detailed and intuitive form for easy travel bookings.
 Social Media Integration: Links to connect with users on platforms like Facebook, Instagram, Twitter, and LinkedIn.
 Calendar Functionality: Displays months, highlights the current date, and allows users to navigate through years.
+
+                                                             BOOKING PAGE
+
+![image alt](https://github.com/Jayanthk2005/Toruism-Webpage-/blob/931d82d0aaa29fae953f48d54b67ad45fd08ff93/screenshot/Screenshot%202025-01-24%20192402.png)
+
+                                                              FOOTER
+![image alt](https://github.com/Jayanthk2005/Toruism-Webpage-/blob/931d82d0aaa29fae953f48d54b67ad45fd08ff93/screenshot/Screenshot%202025-01-24%20192425.png)
+
+                                                            BEST DESTINATION
+![image alt](https://github.com/Jayanthk2005/Toruism-Webpage-/blob/931d82d0aaa29fae953f48d54b67ad45fd08ff93/screenshot/Screenshot%202025-01-24%20192441.png)
+
+                                                            LOCATIONS
+![image alt](https://github.com/Jayanthk2005/Toruism-Webpage-/blob/931d82d0aaa29fae953f48d54b67ad45fd08ff93/screenshot/Screenshot%202025-01-24%20192455.png)
+
+                                                              CONTACT PAGE
+![image alt](https://github.com/Jayanthk2005/Toruism-Webpage-/blob/931d82d0aaa29fae953f48d54b67ad45fd08ff93/screenshot/Screenshot%202025-01-24%20192543.png)
